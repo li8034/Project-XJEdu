@@ -1,0 +1,17 @@
+name: webupdater
+version: 1.0.0
+display_name: 网页更新监控
+description: |
+  自动监控网页内容变化并推送更新通知的AstrBot插件。
+  支持多个网页同时监控，灵活的配置管理。
+author: YourName
+homepage: https://github.com/yourname/astrbot_plugin_webupdater
+repository: https://github.com/yourname/astrbot_plugin_webupdater
+tags:
+  - monitor
+  - notification
+  - web
+  - utility
+requirements:
+  - astrbot>=4.10.0
+  - httpx>=0.24.0
