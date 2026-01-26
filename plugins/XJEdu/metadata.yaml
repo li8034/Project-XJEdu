@@ -1,0 +1,6 @@
+name: Xjedu # 插件唯一识别名，以 astrbot_plugin_ 前缀开头
+display_name: Xjedu # 用于展示的名字，可以是方便人类阅读的名字（需要版本 >= v4.5.0，低版本不会报错，请放心填写）
+desc: 用于自动转发西安交通大学教务处有关竞赛的通知并且显示竞赛报名开始与截至时间，显示当前可报名的竞赛，提醒竞赛结束报名 # 插件简短描述
+version: v0.0.0 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: U_Miyako # 作者
+repo: https://github.com/li8034/Project-XJEdu # 插件的仓库地址

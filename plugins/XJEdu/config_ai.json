@@ -1,0 +1,8 @@
+{
+  "use_ai": true,
+  "provider": "deepseek",
+  "base_url": "https://api.deepseek.com",
+  "api_key": "sk-bd5efa5123f049ef983c1b1b680dba32",
+  "model": "deepseek-chat",
+  "notes": "AI默认开启，使用 deepseek。若有自有代理或密钥请替换 base_url 与 api_key。"
+}
